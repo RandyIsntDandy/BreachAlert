@@ -1,0 +1,18 @@
+{
+    "name": "BreachAlert",
+    "description": "Data Breach Detecting Extension",
+    "version": "1.0",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup/popup.html",
+        "default_icon": "images/hello_extensions.png"
+    },
+    "permissions": ["tabGroups", "activeTab"],
+    "host_permissions": [
+        "https://*/*",
+        "http://*/*"
+    ],
+    "background":{
+        "service_worker": "background.js"
+    }
+}
