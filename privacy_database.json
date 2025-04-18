@@ -1,0 +1,48 @@
+[
+  {
+    "domain": "facebook.com",
+    "company": "Meta (Facebook)",
+    "category": ["sells_user_data", "data_leak"],
+    "last_incident": "2021-04-03",
+    "sources": ["https://www.bbc.com/news/technology-56653044"],
+    "notes": "Over 530 million Facebook users' data was leaked online, including phone numbers and personal details."
+  },
+  {
+    "domain": "tiktok.com",
+    "company": "TikTok (ByteDance)",
+    "category": ["sells_user_data"],
+    "last_incident": "2022-06-17",
+    "sources": [
+      "https://www.forbes.com/sites/emilybaker-white/2022/06/17/tiktok-china-access-us-data"
+    ],
+    "notes": "Forbes reported TikTok employees in China accessed U.S. user data."
+  },
+  {
+    "domain": "equifax.com",
+    "company": "Equifax",
+    "category": ["data_leak", "lost_pii"],
+    "last_incident": "2017-09-07",
+    "sources": [
+      "https://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement"
+    ],
+    "notes": "147 million people affected by a massive breach exposing Social Security numbers, birth dates, and addresses."
+  },
+  {
+    "domain": "microsoft.com",
+    "company": "Microsoft",
+    "category": ["data_leak"],
+    "last_incident": "2023-10-19",
+    "sources": ["https://techcrunch.com/2023/10/19/microsoft-ai-data-leak/"],
+    "notes": "AI researchers accidentally exposed 38TB of sensitive internal data."
+  },
+  {
+    "domain": "google.com",
+    "company": "Google",
+    "category": ["sells_user_data"],
+    "last_incident": "2023-12-22",
+    "sources": [
+      "https://www.nytimes.com/2023/12/22/technology/google-ad-data-sale.html"
+    ],
+    "notes": "Reported use of personal user data for targeted advertising without adequate transparency."
+  }
+]
