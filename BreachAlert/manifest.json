@@ -1,0 +1,30 @@
+{
+    "name": "BreachAlert",
+    "description": "Privacy Alert Browser Extension",
+    "version": "2.3",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup/popup.html",
+        "default_icon": "images/logo.png"
+    },
+    "permissions": ["tabs", "activeTab", "notifications"],
+    "host_permissions": [
+        "<all_urls>"
+    ],
+    "background": {
+        "service_worker": "scripts/background.js"
+    },
+    "content_scripts": [
+        {
+            "matches": ["<all_urls>"],
+            "js": ["scripts/content.js"],
+            "css": ["styles/alert.css"]
+        }
+    ],
+    "web_accessible_resources":[
+        {
+            "resources": ["images/logo.png"],
+            "matches": ["<all_urls>"]
+        }
+    ]
+}

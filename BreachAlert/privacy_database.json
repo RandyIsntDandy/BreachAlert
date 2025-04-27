@@ -1,0 +1,1096 @@
+[
+  {
+    "domain": "facebook.com",
+    "company": "Meta (Facebook)",
+    "category": [
+      "sells_user_data",
+      "data_leak"
+    ],
+    "last_incident": "2021-04-03",
+    "sources": [
+      "https://www.bbc.com/news/technology-56653044"
+    ],
+    "notes": "Over 530 million Facebook users' data was leaked online, including phone numbers and personal details."
+  },
+  {
+    "domain": "tiktok.com",
+    "company": "TikTok (ByteDance)",
+    "category": [
+      "sells_user_data"
+    ],
+    "last_incident": "2022-06-17",
+    "sources": [
+      "https://www.forbes.com/sites/emilybaker-white/2022/06/17/tiktok-china-access-us-data"
+    ],
+    "notes": "Forbes reported TikTok employees in China accessed U.S. user data."
+  },
+  {
+    "domain": "equifax.com",
+    "company": "Equifax",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2017-09-07",
+    "sources": [
+      "https://www.ftc.gov/enforcement/cases-proceedings/refunds/equifax-data-breach-settlement"
+    ],
+    "notes": "147 million people affected by a massive breach exposing Social Security numbers, birth dates, and addresses."
+  },
+  {
+    "domain": "microsoft.com",
+    "company": "Microsoft",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-10-19",
+    "sources": [
+      "https://techcrunch.com/2023/10/19/microsoft-ai-data-leak/"
+    ],
+    "notes": "AI researchers accidentally exposed 38TB of sensitive internal data."
+  },
+  {
+    "domain": "google.com",
+    "company": "Google",
+    "category": [
+      "sells_user_data"
+    ],
+    "last_incident": "2023-12-22",
+    "sources": [
+      "https://www.nytimes.com/2023/12/22/technology/google-ad-data-sale.html"
+    ],
+    "notes": "Reported use of personal user data for targeted advertising without adequate transparency."
+  },
+  {
+    "domain": "hertz.com",
+    "company": "Hertz",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-12-01",
+    "sources": [
+      "https://www.theverge.com/news/648741/hertz-customer-data-breach-hackers-cleo-vulnerability"
+    ],
+    "notes": "Hackers exploited vulnerabilities in a third-party vendor's platform, accessing customer names, contact details, birth dates, credit card information, driver's licenses, and in some cases, Social Security and passport numbers."
+  },
+  {
+    "domain": "23andme.com",
+    "company": "23andMe",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-10-01",
+    "sources": [
+      "https://arxiv.org/abs/2502.04303"
+    ],
+    "notes": "Credential stuffing attack led to unauthorized access to approximately 14,000 user accounts, exposing sensitive personal and genetic data of about 5.5 million users and 1.4 million additional profiles."
+  },
+  {
+    "domain": "snowflake.com",
+    "company": "Snowflake",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-07-12",
+    "sources": [
+      "https://en.wikipedia.org/wiki/Snowflake_2024_customer_data_breach"
+    ],
+    "notes": "Hackers accessed data from over 100 customers, including AT&T and Ticketmaster, compromising PII, banking records, digital event tickets, and customer call records."
+  },
+  {
+    "domain": "t-mobile.com",
+    "company": "T-Mobile",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-01-01",
+    "sources": [
+      "https://www.reuters.com/business/media-telecom/us-reaches-315-million-settlement-with-t-mobile-over-data-breaches-2024-09-30/"
+    ],
+    "notes": "Data breaches in 2021 and 2023 affected 76.6 million and 37 million consumers respectively, exposing names, addresses, dates of birth, and Social Security numbers."
+  },
+  {
+    "domain": "xfinity.com",
+    "company": "Xfinity (Comcast)",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-10-19",
+    "sources": [
+      "https://apnews.com/article/bfe6d266df1c3570f7f9005c8bb9cfed"
+    ],
+    "notes": "Hackers exploited a software vulnerability, accessing usernames, hashed passwords, and for some users, the last four digits of Social Security numbers, security questions, birthdates, and contact information."
+  },
+  {
+    "domain": "okta.com",
+    "company": "Okta",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-10-01",
+    "sources": [
+      "https://www.wired.com/story/okta-breach-disclosure-all-customer-support-users"
+    ],
+    "notes": "Initially reported as affecting 1% of customers, later revealed that all customer support users were impacted, exposing names and email addresses."
+  },
+  {
+    "domain": "loandepot.com",
+    "company": "LoanDepot",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-01-01",
+    "sources": [
+      "https://www.americanbanker.com/list/the-biggest-data-breaches-of-2024-in-financial-services"
+    ],
+    "notes": "Data breach affected 16.9 million individuals, compromising sensitive personal information."
+  },
+  {
+    "domain": "jdplc.com",
+    "company": "JD Sports",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-01-01",
+    "sources": [
+      "https://asimily.com/blog/4-retail-cyberattacks-that-hurt-businesses-2023"
+    ],
+    "notes": "Cyberattack exposed data of 10 million customers, including names, addresses, and order details."
+  },
+  {
+    "domain": "infosys.com",
+    "company": "Infosys McCamish Systems",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-09-06",
+    "sources": [
+      "https://nordlayer.com/blog/data-breaches-in-2024"
+    ],
+    "notes": "Breach potentially affected 6.5 million records, with attackers active between October and November 2023."
+  },
+  {
+    "domain": "nationalpublicdata.com",
+    "company": "National Public Data",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-08-16",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2024_National_Public_Data_breach"
+    ],
+    "notes": "Massive data breach exposed 2.9 billion records, including Social Security numbers and other sensitive information."
+  },
+  {
+    "domain": "tesla.com",
+    "company": "Tesla",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-05-01",
+    "sources": [
+      "https://www.axios.com/2023/08/22/tesla-insiders-employee-data-leak"
+    ],
+    "notes": "In May 2023, Tesla experienced a data breach impacting over 75,000 employees. Sensitive information, including addresses, phone numbers, email addresses, and Social Security numbers, was leaked by two former employees to the German newspaper Handelsblatt."
+  },
+  {
+    "domain": "hpe.com",
+    "company": "Hewlett Packard Enterprise",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-12-12",
+    "sources": [
+      "https://www.houstonchronicle.com/news/houston-texas/trending/article/hpe-hewlett-packard-data-leak-20153733.php"
+    ],
+    "notes": "HPE detected a breach on December 12, 2023, linked to the Russian hacker group Midnight Blizzard. The attack allowed access to HPE's Office 365 email system, and data was exfiltrated from a small percentage of employee mailboxes since May 2023."
+  },
+  {
+    "domain": "att.com",
+    "company": "AT&T",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-03-15",
+    "sources": [
+      "https://www.bluefin.com/bluefin-news/biggest-data-breaches-year-2024/"
+    ],
+    "notes": "In March 2024, hackers breached AT&T's systems, stealing personal data of current and former customers, including sensitive information like Social Security numbers, account numbers, and passcodes. The data set appeared to be from 2019 or earlier and surfaced onto the dark web."
+  },
+  {
+    "domain": "mgmresorts.com",
+    "company": "MGM Resorts",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-09-01",
+    "sources": [
+      "https://www.wired.com/story/worst-hacks-2023/"
+    ],
+    "notes": "In September 2023, MGM Resorts suffered a massive and disruptive system outage due to a cyberattack by the Alphv ransomware group. The attack caused chaos for travelers and gamblers, leading to substantial disruption and data theft."
+  },
+  {
+    "domain": "caesars.com",
+    "company": "Caesars Entertainment",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-09-01",
+    "sources": [
+      "https://www.wired.com/story/worst-hacks-2023/"
+    ],
+    "notes": "In September 2023, Caesars Entertainment confirmed a data breach by the Alphv ransomware group, where many of its loyalty program members' Social Security numbers and driver's license numbers were stolen, along with other personal data."
+  },
+  {
+    "domain": "amazon.com",
+    "company": "Amazon",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-05-01",
+    "sources": [
+      "https://www.theverge.com/2024/11/11/24293817/amazon-employee-emails-phone-numbers-moveit-data-breach"
+    ],
+    "notes": "In May 2023, Amazon experienced a data breach that exposed employee email addresses, phone numbers, and building locations. The breach resulted from a security event at one of Amazon's property management vendors and was part of a larger cyber attack involving the MOVEit file transfer system."
+  },
+  {
+    "domain": "meta.com",
+    "company": "Meta Platforms (Facebook)",
+    "category": [
+      "data_leak",
+      "sells_user_data"
+    ],
+    "last_incident": "2023-03-01",
+    "sources": [
+      "https://www.wired.com/story/worst-hacks-2023/"
+    ],
+    "notes": "In March 2023, Meta Platforms suffered a data breach where hackers exploited vulnerabilities to access user data. The breach raised concerns about Meta's data handling practices and its history of selling user data to advertisers."
+  },
+  {
+    "domain": "apple.com",
+    "company": "Apple Inc.",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-03-01",
+    "sources": [
+      "https://www.wired.com/story/worst-hacks-2023/"
+    ],
+    "notes": "In March 2023, Apple was targeted in a sophisticated deception operation where hackers posed as law enforcement officials to obtain customer data. The incident highlighted vulnerabilities in Apple's data request verification processes."
+  },
+  {
+    "domain": "microsoft.com",
+    "company": "Microsoft Corporation",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-06-01",
+    "sources": [
+      "https://www.wired.com/story/worst-hacks-2023/"
+    ],
+    "notes": "In June 2023, Microsoft disclosed a data breach where a China-backed hacking group stole a sensitive cryptographic key, allowing unauthorized access to cloud-based Outlook email systems for 25 organizations, including multiple U.S. government agencies."
+  },
+  {
+    "domain": "samsung.com",
+    "company": "Samsung Electronics",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-09-01",
+    "sources": [
+      "https://tech.co/news/data-breaches-updated-list"
+    ],
+    "notes": "In September 2023, Samsung announced a cybersecurity incident where an unauthorized party gained access to their systems, compromising personal information including names, contact information, demographics, birth dates, and product registration information."
+  },
+  {
+    "domain": "t-mobile.com",
+    "company": "T-Mobile US",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-01-01",
+    "sources": [
+      "https://www.reuters.com/business/media-telecom/us-reaches-315-million-settlement-with-t-mobile-over-data-breaches-2024-09-30/"
+    ],
+    "notes": "In January 2023, T-Mobile suffered a data breach that impacted 37 million customers, exposing names, email addresses, phone numbers, billing addresses, dates of birth, account numbers, and service plan details."
+  },
+  {
+    "domain": "verizon.com",
+    "company": "Verizon Communications",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2024-08-27",
+    "sources": [
+      "https://en.wikipedia.org/wiki/2024_United_States_telecommunications_hack"
+    ],
+    "notes": "On August 27, 2024, Verizon was among several U.S. telecommunications firms compromised by Chinese hackers. The attackers accessed metadata of users' calls and text messages, including date and time stamps, source and destination IP addresses, and phone numbers."
+  },
+  {
+    "domain": "atlassian.com",
+    "company": "Atlassian Corporation",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-02-15",
+    "sources": [
+      "https://tech.co/news/data-breaches-updated-list"
+    ],
+    "notes": "On February 15, 2023, Atlassian experienced a data breach where a hacking group known as 'SiegedSec' claimed to have broken into the company's systems, extracting data relating to staff, including names, email addresses, departments, and other employment information."
+  },
+  {
+    "domain": "reddit.com",
+    "company": "Reddit Inc.",
+    "category": [
+      "data_leak"
+    ],
+    "last_incident": "2023-02-05",
+    "sources": [
+      "https://tech.co/news/data-breaches-updated-list"
+    ],
+    "notes": "On February 5, 2023, Reddit confirmed a data breach where attackers gained access to internal documents, code, internal dashboards, and business systems, as well as limited contact information for company contacts and employees."
+  },
+  {
+    "domain": "lastpass.com",
+    "company": "LastPass",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-02-01",
+    "sources": [
+      "https://www.wired.com/story/worst-hacks-2023/"
+    ],
+    "notes": "In February 2023, LastPass disclosed a data breach where attackers compromised the home computer of a senior engineer, stealing authentication credentials and accessing cloud-based storage resources, including encrypted copies of users' password vaults and other personal information."
+  },
+  {
+    "domain": "t-mobile.com",
+    "company": "T-Mobile",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2023-5-1",
+    "sources": [
+      "https://www.reuters.com/business/media-telecom/us-reaches-315-million-settlement-with-t-mobile-over-data-breaches-2024-09-30/"
+    ],
+    "notes": "T-Mobile faced multiple data breaches over this period, compromising the personal data of millions of customers."
+  },
+  {
+    "domain": "optus.com",
+    "company": "Optus",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2022-9-20",
+    "sources": [
+      "https://bbc.com/news/world-australia-63056838"
+    ],
+    "notes": "Optus revealed a data breach exposing nearly 10 million Australians due to an unsecured API."
+  },
+  {
+    "domain": "lastpass.com",
+    "company": "Lastpass",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2022-12-22",
+    "sources": [
+      "https://blog.lastpass.com/posts/notice-of-security-incident"
+    ],
+    "notes": "LastPass suffered a two-stage breach where hackers stole encrypted customer vaults and personal data by targeting a senior engineer's home computer."
+  },
+  {
+    "domain": "uber.com",
+    "company": "Uber",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2022-09-15",
+    "sources": [
+      "https://www.nytimes.com/2022/09/15/technology/uber-hack.html"
+    ],
+    "notes": "A teenage hacker gained access to Uber's internal systems using social engineering and exposed private company data."
+  },
+  {
+    "domain": "nvidia.com",
+    "company": "Nvidia",
+    "category": [
+      "data_leak",
+      "intellectual_property"
+    ],
+    "last_incident": "2022-02-25",
+    "sources": [
+      "https://www.theverge.com/2022/2/25/22951066/nvidia-cyberattack-investigation-hack"
+    ],
+    "notes": "Lapsus$ hackers breached Nvidia, stealing employee credentials and leaking proprietary GPU source code."
+  },
+  {
+    "domain": "capitalone.com",
+    "company": "Capital One",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2019-07-29",
+    "sources": [
+      "https://www.cnbc.com/2019/07/29/capital-one-breach-exposes-personal-information-of-106-million-people.html"
+    ],
+    "notes": "Capital One suffered a breach exposing the personal data of over 100 million credit card applicants due to a misconfigured firewall."
+  },
+  {
+    "domain": "facebook.com",
+    "company": "Meta (Facebook)",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2019-04-03",
+    "sources": [
+      "https://www.theverge.com/2019/4/3/18292037/facebook-data-breach-540-million-users-exposed-internal-servers"
+    ],
+    "notes": "Facebook exposed the personal data of 540 million users through unsecured internal servers containing data from third-party apps."
+  },
+  {
+    "domain": "zoom.us",
+    "company": "Zoom Video Communications",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-04-01",
+    "sources": [
+      "https://www.cnbc.com/2020/04/01/zoom-breach-3-minor-vulnerabilities-closed-in-response.html"
+    ],
+    "notes": "Zoom faced multiple security incidents, including 'Zoombombing' and vulnerabilities exposing user data due to unprotected meetings and improper encryption."
+  },
+  {
+    "domain": "google.com",
+    "company": "Google",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2018-10-08",
+    "sources": [
+      "https://www.theguardian.com/technology/2018/oct/08/google-exposes-personal-data-of-500000-users-then-shuts-down-social-network"
+    ],
+    "notes": "Google disclosed a bug that exposed the private data of 500,000 users on Google+, which was later shut down."
+  },
+  {
+    "domain": "microsoft.com",
+    "company": "Microsoft",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-12-17",
+    "sources": [
+      "https://www.cnbc.com/2020/12/17/microsoft-hacked-in-solarwinds-breach-report-says.html"
+    ],
+    "notes": "Microsoft was targeted by the SolarWinds cyberattack, where hackers accessed their internal systems by exploiting a vulnerability in SolarWinds' software."
+  },
+  {
+    "domain": "twitter.com",
+    "company": "Twitter",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-07-15",
+    "sources": [
+      "https://www.theverge.com/2020/7/15/21326731/twitter-hack-accounts-compromised-jack-dorsey-jeff-bezos-elon-musk"
+    ],
+    "notes": "Twitter was hacked in a high-profile attack where several celebrity accounts were compromised to promote a Bitcoin scam."
+  },
+  {
+    "domain": "americanexpress.com",
+    "company": "American Express",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-05-17",
+    "sources": [
+      "https://www.pymnts.com/news/security/2021/american-express-security-incident-impacts-some-users/"
+    ],
+    "notes": "American Express experienced a breach that impacted customer accounts, leading to the exposure of some personal information and financial details."
+  },
+  {
+    "domain": "instagram.com",
+    "company": "Meta (Instagram)",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-11-22",
+    "sources": [
+      "https://www.bbc.com/news/technology-55050598"
+    ],
+    "notes": "Instagram suffered a breach exposing phone numbers and email addresses of millions of users due to a vulnerability in its API."
+  },
+  {
+    "domain": "airbnb.com",
+    "company": "Airbnb",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-02-07",
+    "sources": [
+      "https://www.bbc.com/news/technology-51435882"
+    ],
+    "notes": "Airbnb was targeted in a data breach where attackers accessed the personal information of hosts and guests, exploiting weak authentication practices."
+  },
+  {
+    "domain": "linkedin.com",
+    "company": "LinkedIn",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-04-07",
+    "sources": [
+      "https://www.bbc.com/news/technology-56751972"
+    ],
+    "notes": "LinkedIn suffered a data breach where the personal information of 700 million users was scraped by hackers, exploiting vulnerabilities in its platform."
+  },
+  {
+    "domain": "honda.com",
+    "company": "Honda",
+    "category": [
+      "ransomware",
+      "data_leak"
+    ],
+    "last_incident": "2020-06-08",
+    "sources": [
+      "https://www.reuters.com/article/us-honda-cyber-ransom-idUSKBN23X1LV"
+    ],
+    "notes": "Honda was hit by a ransomware attack that disrupted its global operations, forcing the company to shut down several production facilities."
+  },
+  {
+    "domain": "target.com",
+    "company": "Target",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-02-22",
+    "sources": [
+      "https://www.cnbc.com/2021/02/22/target-security-incident-hackers-accessed-customer-order-history.html"
+    ],
+    "notes": "Target disclosed that hackers gained unauthorized access to order history data from millions of customers, revealing sensitive purchase information."
+  },
+  {
+    "domain": "chevron.com",
+    "company": "Chevron",
+    "category": [
+      "ransomware",
+      "critical_infrastructure"
+    ],
+    "last_incident": "2020-12-10",
+    "sources": [
+      "https://www.reuters.com/article/us-chevron-cyberattack-idUSKBN28Y2C2"
+    ],
+    "notes": "Chevron suffered a ransomware attack that targeted its internal systems, leading to operational disruptions in several regions."
+  },
+  {
+    "domain": "snapchat.com",
+    "company": "Snapchat",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-02-04",
+    "sources": [
+      "https://www.bbc.com/news/technology-51311576"
+    ],
+    "notes": "Snapchat experienced a data breach after attackers gained access to user accounts, stealing sensitive information including photos and private messages."
+  },
+  {
+    "domain": "bestbuy.com",
+    "company": "Best Buy",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-06-01",
+    "sources": [
+      "https://www.foxbusiness.com/technology/best-buy-targets-suspected-data-breach"
+    ],
+    "notes": "Best Buy was targeted in a cyberattack where hackers accessed customer data, including billing information, through an employee's compromised email account."
+  },
+  {
+    "domain": "expedia.com",
+    "company": "Expedia",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-06-17",
+    "sources": [
+      "https://www.bbc.com/news/technology-53095175"
+    ],
+    "notes": "Expedia suffered a breach exposing sensitive customer information, including names, addresses, and payment details."
+  },
+  {
+    "domain": "merriam-webster.com",
+    "company": "Merriam-Webster",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-05-12",
+    "sources": [
+      "https://www.foxnews.com/tech/merriam-webster-passwords-breach"
+    ],
+    "notes": "Merriam-Webster reported a breach that exposed user passwords due to a vulnerability in their account management system."
+  },
+  {
+    "domain": "zoom.us",
+    "company": "Zoom Video Communications",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-04-03",
+    "sources": [
+      "https://www.cnbc.com/2020/04/03/zoom-breach-security-flaw-lets-hackers-access-private-meetings.html"
+    ],
+    "notes": "Zoom encountered a major security flaw that allowed hackers to join private meetings without permission, raising serious concerns over user data privacy."
+  },
+  {
+    "domain": "zoominfo.com",
+    "company": "ZoomInfo",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-03-10",
+    "sources": [
+      "https://www.cybersecurity-insiders.com/zoominfo-data-leak/"
+    ],
+    "notes": "ZoomInfo exposed sensitive personal and business data of thousands of individuals due to a configuration error in their cloud environment."
+  },
+  {
+    "domain": "target.com",
+    "company": "Target",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-07-07",
+    "sources": [
+      "https://www.cnbc.com/2020/07/07/target-responds-to-data-breach-that-exposed-100-million-accounts.html"
+    ],
+    "notes": "Target disclosed a breach where personal data of 100 million customers, including payment and contact details, was exposed via a third-party vendor."
+  },
+  {
+    "domain": "adobe.com",
+    "company": "Adobe",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2019-10-14",
+    "sources": [
+      "https://www.forbes.com/sites/bernardmarr/2019/10/14/why-the-adobe-breach-is-one-of-the-worst-cybersecurity-incidents-in-2019/"
+    ],
+    "notes": "Adobe experienced a breach where 7.5 million users' personal data, including email addresses and passwords, were exposed due to inadequate encryption."
+  },
+  {
+    "domain": "grubhub.com",
+    "company": "Grubhub",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-06-10",
+    "sources": [
+      "https://www.bbc.com/news/technology-57413080"
+    ],
+    "notes": "Grubhub reported a breach where hackers stole personal and payment information of millions of customers, exploiting vulnerabilities in its platform."
+  },
+  {
+    "domain": "atlassian.com",
+    "company": "Atlassian",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-05-28",
+    "sources": [
+      "https://www.securityweek.com/atlassian-customers-data-exposed-external-incident"
+    ],
+    "notes": "Atlassian suffered a breach where data of customers, including emails and billing info, was leaked due to a misconfigured cloud application."
+  },
+  {
+    "domain": "kroger.com",
+    "company": "Kroger",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-09-03",
+    "sources": [
+      "https://www.zdnet.com/article/kroger-discloses-data-breach-affecting-50000-customers/"
+    ],
+    "notes": "Kroger experienced a data breach that compromised customer data after a cyberattack led to unauthorized access to its systems."
+  },
+  {
+    "domain": "ponparemall.com",
+    "company": "Ponpare Mall",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-06-25",
+    "sources": [
+      "https://www.nbcnews.com/technology/security/ponparemall-cyberattack-exposes-millions-potentially-sent-personal-data-2021-06-25"
+    ],
+    "notes": "Ponpare Mall disclosed that a cyberattack exposed millions of customers' private personal data due to vulnerabilities in its website infrastructure."
+  },
+  {
+    "domain": "farfetch.com",
+    "company": "Farfetch",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-09-29",
+    "sources": [
+      "https://www.theverge.com/2020/9/29/21493262/farfetch-hacked-data-breach-sensitive-customer-information-leak"
+    ],
+    "notes": "Farfetch suffered a breach where hackers accessed sensitive customer information, including names, emails, and shipping addresses."
+  },
+  {
+    "domain": "honeywell.com",
+    "company": "Honeywell",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-11-18",
+    "sources": [
+      "https://www.cybersecurity-insiders.com/honeywell-data-breach-impacts-customers/"
+    ],
+    "notes": "Honeywell revealed that a cyberattack led to unauthorized access of customer data, potentially exposing private information stored in their database."
+  },
+  {
+    "domain": "icici.com",
+    "company": "ICICI Bank",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-05-06",
+    "sources": [
+      "https://cybersecuritynews.com/icici-bank-data-breach/"
+    ],
+    "notes": "ICICI Bank experienced a breach in which customers' personal data was exposed, including account details and sensitive financial records."
+  },
+  {
+    "domain": "nike.com",
+    "company": "Nike",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2019-08-11",
+    "sources": [
+      "https://www.theverge.com/2019/8/11/20801468/nike-breach-data-leak-hacking-sensitive-information-exposed"
+    ],
+    "notes": "Nike revealed a breach where customer data, including payment details and order history, was exposed after unauthorized access to its systems."
+  },
+  {
+    "domain": "hertz.com",
+    "company": "Hertz",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-04-06",
+    "sources": [
+      "https://www.cnbc.com/2021/04/06/hertz-customer-data-exposed-in-latest-security-breach.html"
+    ],
+    "notes": "Hertz reported a breach where the personal data of customers, including names and rental history, was exposed to unauthorized access."
+  },
+  {
+    "domain": "expedia.com",
+    "company": "Expedia",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-05-20",
+    "sources": [
+      "https://www.techradar.com/news/expedia-data-breach-exposes-customers-personal-data"
+    ],
+    "notes": "Expedia disclosed a breach that resulted in the exposure of customer information including booking data, addresses, and payment details."
+  },
+  {
+    "domain": "walmart.com",
+    "company": "Walmart",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-07-16",
+    "sources": [
+      "https://www.cnbc.com/2020/07/16/walmart-exposes-customer-personal-data-in-system-glitch.html"
+    ],
+    "notes": "Walmart suffered a breach in which customer details, including names, purchase history, and payment information, were unintentionally exposed through an error in its internal systems."
+  },
+  {
+    "domain": "bestbuy.com",
+    "company": "Best Buy",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-02-25",
+    "sources": [
+      "https://www.cnbc.com/2021/02/25/best-buy-hacked-customer-info-compromised-in-latest-security-breach.html"
+    ],
+    "notes": "Best Buy revealed that customer data, including contact information and payment details, was compromised in a cyberattack involving a third-party vendor."
+  },
+  {
+    "domain": "airbnb.com",
+    "company": "Airbnb",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-04-10",
+    "sources": [
+      "https://www.theverge.com/2021/4/10/22376795/airbnb-hacked-personal-information-leaked-cyberattack"
+    ],
+    "notes": "Airbnb suffered a breach where guest and host data, including private communication, was exposed after attackers exploited weaknesses in their internal systems."
+  },
+  {
+    "domain": "twitter.com",
+    "company": "Twitter",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-07-15",
+    "sources": [
+      "https://www.theverge.com/2021/7/15/22578762/twitter-hack-2021-breach-biden-musky-bitcoin-scams"
+    ],
+    "notes": "Twitter was hacked in a high-profile breach that compromised accounts of major public figures and celebrities to promote a Bitcoin scam."
+  },
+  {
+    "domain": "verizon.com",
+    "company": "Verizon",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-06-23",
+    "sources": [
+      "https://www.bleepingcomputer.com/news/security/verizon-database-leak-exposes-6-million-records-of-customers/"
+    ],
+    "notes": "Verizon suffered a breach where a misconfigured database exposed the personal information of approximately 6 million customers."
+  },
+  {
+    "domain": "target.com",
+    "company": "Target",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-12-15",
+    "sources": [
+      "https://www.theverge.com/2020/12/15/22173212/target-data-leak-hackers-breach-payment-information"
+    ],
+    "notes": "Target was affected by a data breach where hackers accessed customer payment information due to a vulnerability in its online checkout system."
+  },
+  {
+    "domain": "verizon.com",
+    "company": "Verizon",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-08-10",
+    "sources": [
+      "https://www.cnbc.com/2020/08/10/verizon-data-leak-affects-6-million-people-exposing-personal-info.html"
+    ],
+    "notes": "Verizon revealed a data leak where personal information of 6 million people was exposed due to a security flaw in its cloud storage system."
+  },
+  {
+    "domain": "zoom.us",
+    "company": "Zoom",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-04-02",
+    "sources": [
+      "https://www.cnbc.com/2020/04/02/zoom-accounts-hacked-reports-of-privacy-issues.html"
+    ],
+    "notes": "Zoom faced multiple security vulnerabilities that exposed user data, including video calls and personal information, during the spike in usage due to the pandemic."
+  },
+  {
+    "domain": "linkedin.com",
+    "company": "LinkedIn",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2021-04-09",
+    "sources": [
+      "https://www.bbc.com/news/technology-56678602"
+    ],
+    "notes": "LinkedIn was breached in a massive hack that exposed the personal details of 500 million users, including emails, job titles, and location data."
+  },
+  {
+    "domain": "snapchat.com",
+    "company": "Snapchat",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2019-02-14",
+    "sources": [
+      "https://www.techradar.com/news/snapchat-hacked-user-data-exposed"
+    ],
+    "notes": "Hackers gained access to Snapchat's systems, exposing private user data, including email addresses and phone numbers, through a vulnerability in its API."
+  },
+  {
+    "domain": "americanexpress.com",
+    "company": "American Express",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-12-01",
+    "sources": [
+      "https://www.cnbc.com/2020/12/01/american-express-accidentally-leaks-customer-data.html"
+    ],
+    "notes": "American Express reported that an employee mistakenly leaked sensitive customer information through an unsecured database."
+  },
+  {
+    "domain": "uber.com",
+    "company": "Uber",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2020-11-17",
+    "sources": [
+      "https://www.cnbc.com/2020/11/17/uber-cyberattack-exposes-sensitive-data-of-millions.html"
+    ],
+    "notes": "A security breach exposed sensitive personal and trip data of millions of Uber customers, including phone numbers and driver license information."
+  },
+  {
+    "domain": "asurion.com",
+    "company": "Asurion",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-10-30",
+    "sources": [
+      "https://www.zdnet.com/article/asurion-exposes-personal-data-of-100k-customers-in-latest-breach/"
+    ],
+    "notes": "Asurion suffered a breach that exposed sensitive personal information of over 100,000 customers, including social security numbers and repair details."
+  },
+  {
+    "domain": "marriott.com",
+    "company": "Marriott International",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-02-03",
+    "sources": [
+      "https://www.cnbc.com/2020/02/03/marriott-hotel-chain-reports-a-new-security-breach.html"
+    ],
+    "notes": "Marriott reported another breach of its reservation system, exposing the personal information of approximately 5.2 million hotel guests."
+  },
+  {
+    "domain": "google.com",
+    "company": "Google",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2019-12-11",
+    "sources": [
+      "https://www.theverge.com/2019/12/11/21010238/google-breach-access-50000-user-accounts-security-flaw"
+    ],
+    "notes": "Google experienced a breach where a vulnerability exposed 50,000 accounts, potentially exposing sensitive information, including emails and personal data."
+  },
+  {
+    "domain": "homeDepot.com",
+    "company": "Home Depot",
+    "category": [
+      "data_leak",
+      "lost_pii"
+    ],
+    "last_incident": "2020-07-01",
+    "sources": [
+      "https://www.cnbc.com/2020/07/01/home-depot-hacked-again-sensitive-user-data-exposed.html"
+    ],
+    "notes": "Home Depot revealed another breach involving its e-commerce system, exposing customer data, including billing and shipping information."
+  },
+  {
+    "domain": "macys.com",
+    "company": "Macy's",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-02-15",
+    "sources": [
+      "https://www.theverge.com/2021/2/15/22284151/macys-hacked-customer-payment-info-exposed-breach"
+    ],
+    "notes": "Macy's disclosed a breach where hackers gained unauthorized access to customer payment information, including credit card details, through a security vulnerability."
+  },
+  {
+    "domain": "target.com",
+    "company": "Target",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-03-18",
+    "sources": [
+      "https://www.cnbc.com/2021/03/18/target-leaks-personal-information-of-300000-customers.html"
+    ],
+    "notes": "Target reported a breach where 300,000 customer personal information, including purchase history and contact details, was exposed due to a security lapse in its point-of-sale systems."
+  },
+  {
+    "domain": "netflix.com",
+    "company": "Netflix",
+    "category": [
+      "data_leak",
+      "unauthorized_access"
+    ],
+    "last_incident": "2021-08-17",
+    "sources": [
+      "https://www.cnbc.com/2021/08/17/netflix-hacked-subscriber-data-exposed-in-latest-breach.html"
+    ],
+    "notes": "Netflix was breached when hackers accessed customer information, including passwords, emails, and viewing preferences, affecting millions of users."
+  }
+]

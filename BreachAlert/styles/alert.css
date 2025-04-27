@@ -1,0 +1,54 @@
+#custom-alert {
+    position: fixed;
+    top: 20px;
+    left: 50%;
+    background: #fff;
+    border: 1px solid #333;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    z-index: 10000;
+    font-family: Arial, sans-serif;
+    max-width: 400px;
+    text-align: center;
+}
+
+img, h1{
+    display: inline;
+    vertical-align: middle;
+}
+
+#exit-page{
+    background: #007bff;
+}
+
+#exit-page:hover{
+    background: #0058b6;
+}
+
+#close-popup{
+    background: #ff0000;
+}
+
+#close-popup:hover{
+    background: #a70000;
+}
+
+.alert-header{
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.alert-button{
+    color: #fff;
+    border: none;
+    padding: 8px 16px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+ol{
+    text-align: left;
+}
